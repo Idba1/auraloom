@@ -10,7 +10,7 @@ const Footer = () => {
     )
     return (
         <div>
-            <footer className="footer footer-center bg-base-300 text-base-content p-4 w-full bg-purple-800 text-center text-white">
+            <footer className="footer footer-center bg-base-300 text-base-content p-4 w-full  text-center mt-14">
                 <aside>
                     <p>Copyright © {new Date().getFullYear()} - All right reserved by <span className='text-[#ffffff]'>Auraloom By Hexa-Devs</span></p>
                 </aside>
