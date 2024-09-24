@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
         <div>
           <Navbar></Navbar>
         </div>
-        <div className="h-screen">
+        <div className="h-auto">
           {children}
         </div>
         <Footer></Footer>
